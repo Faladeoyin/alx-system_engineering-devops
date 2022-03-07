@@ -1,1 +1,1 @@
-My shell redirections readme
+My shell permissions readme
